@@ -72,7 +72,7 @@ To run this program, you can use [Remix](https://remix.ethereum.org/), an online
 ## Authors
 
 - **Metacrafter Bryce**
-    - Twitter: [@Mhistwy](https://twitter.com/Mhistwy)
+    - Twitter: [@Mhistwy](https://twitter.com/nchlsangls)
 
 ## License
 
